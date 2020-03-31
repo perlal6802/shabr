@@ -1,3 +1,18 @@
 body{
     background-color: black;
 }
+
+.w1{
+    width: 100%;
+    padding: 40px;
+}
+
+.w2{
+    width: 100%;
+    padding: 40px;
+}
+
+#air h1,
+#air h2 {
+    color: #F5FFFA;
+}

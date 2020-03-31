@@ -32,5 +32,4 @@ SHABR, Inc.
 1234 Shabr Road
 Somewhere, OT 80013
 Phone(555) 555-1234
-
 Copyright © 2016   |   SHABR
