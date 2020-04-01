@@ -13,6 +13,11 @@ body{
 }
 
 #air h1,
-#air h2 {
+#air h2,
+#air h4{
     color: #F5FFFA;
+}
+
+h4{
+    font-family: 'Lobster', cursive;
 }
