@@ -24,10 +24,17 @@ h4{
 
 #TWFP{
     color: #F5FFFA;
-    padding: 20px;
+    padding: 40px;
+    padding-bottom: 10px;
 }
 .carousel img {
      width: 100%;
      height: auto;
     padding: 60px;
+}
+
+.jumbotron{
+    background-color: #E9967A;
+    color: white;
+    padding: 40px;
 }
