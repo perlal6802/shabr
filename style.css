@@ -39,4 +39,14 @@ h4{
     padding: 40px;
 }
 
+.col-sm-4{
+    color: #F5FFFA;
+    padding: 40px;
+    padding-bottom: 10px;
+}
 
+#comments{
+    color: #F5FFFA;
+    /*background-color: #E9967A;*/
+    padding: 40px;
+}
