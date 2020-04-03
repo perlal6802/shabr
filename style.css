@@ -48,5 +48,9 @@ h4{
 #comments{
     color: #F5FFFA;
     /*background-color: #E9967A;*/
-    padding: 40px;
+    padding: 20px;
+}
+
+.orange{
+     background-color: #E9967A;
 }
