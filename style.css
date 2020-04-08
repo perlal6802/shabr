@@ -39,7 +39,7 @@ h4{
     padding: 40px;
 }
 
-.col-sm-4{
+.col-sm-4, .col-md-4{
     color: #F5FFFA;
     padding: 40px;
     border: solid;
