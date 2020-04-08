@@ -49,8 +49,14 @@ h4{
     color: #F5FFFA;
     /*background-color: #E9967A;*/
     padding: 20px;
+    padding-top:0px;
 }
 
 .orange{
      background-color: #E9967A;
+}
+
+#photos{
+    color: #F5FFFA;
+    padding: 0px 80px 50px 80px;
 }
