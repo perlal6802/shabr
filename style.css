@@ -1,3 +1,4 @@
+
 body{
     background-color: black;
 }
@@ -20,6 +21,7 @@ body{
 
 h4{
     font-family: 'Lobster', cursive;
+    color: white;
 }
 
 #TWFP{
@@ -30,33 +32,11 @@ h4{
 .carousel img {
      width: 100%;
      height: auto;
-    padding: 60px;
+     padding: 60px;
 }
 
 .jumbotron{
     background-color: #E9967A;
     color: white;
     padding: 40px;
-}
-
-.col-sm-4{
-    color: #F5FFFA;
-    padding: 40px;
-    padding-bottom: 10px;
-}
-
-#comments{
-    color: #F5FFFA;
-    /*background-color: #E9967A;*/
-    padding: 20px;
-    padding-top:0px;
-}
-
-.orange{
-     background-color: #E9967A;
-}
-
-#photos{
-    color: #F5FFFA;
-    padding: 0px 80px 50px 80px;
 }
