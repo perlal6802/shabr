@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background: linear-gradient(90deg, #E9967A, #a6a6a6);
 }
 
 .w1{
@@ -62,4 +62,13 @@ h4{
 
 .container{
     padding-bottom: 80px;
+}
+
+.col-sm-6{
+    padding: 40px;
+    padding-bottom: 10px;
+    border: solid;
+    border-width: 5px;
+    border-color: #F5FFFA; 
+    border-radius: 15px;
 }
